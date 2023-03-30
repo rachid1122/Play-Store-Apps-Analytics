@@ -1,0 +1,16 @@
+{
+    "Art & Design": ["Art & Design", "Photography", "Personalization"],
+    "Games": ["Arcade", "Puzzle", "Racing", "Trivia", "Card", "Sports", "Board", "Strategy", "Word", "Action", "Simulation", "Adventure", "Casual", "Role Playing", "Casino"],
+    "Health & Fitness": ["Health & Fitness", "Medical", "Parenting"],
+    "Lifestyle": ["Beauty", "Lifestyle", "Shopping"],
+    "House & Home": ["House & Home"],
+    "Entertainment": ["Entertainment", "Events", "Music", "Music & Audio", "Video Players & Editors"],
+    "Travel & Local": ["Travel & Local", "Maps & Navigation", "Weather"],
+    "Communication": ["Communication", "Social", "News & Magazines", "Comics", "Dating"],
+    "Education": ["Education", "Educational", "Books & Reference", "Productivity", "Libraries & Demo", "Tools"],
+    "Business": ["Business", "Finance"],
+    "Food & Drink": ["Food & Drink"],
+    "Auto & Vehicles": ["Auto & Vehicles"]
+
+  }
+  
